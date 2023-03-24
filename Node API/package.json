@@ -1,0 +1,14 @@
+{
+  "name": "backend-esp32buzzer",
+  "version": "1.0.0",
+  "description": "Express Server to Buzz Buzz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amoreira2003",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
